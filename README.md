@@ -1,4 +1,4 @@
-# -Cohort-based-monthly-retention-using-PostgreSQL-with-pgAdmin
+# Cohort-based-monthly-retention-using-PostgreSQL-with-pgAdmin
 Query: PostgreSQL with pgAdmin  Additional tools:  Jupyter Notebok  Visualization:  Chart type: Heatmap to show user retention
 
 README
